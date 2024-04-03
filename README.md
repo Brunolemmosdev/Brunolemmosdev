@@ -1,15 +1,12 @@
 ### Hi there  Eu sou Brunolemmosdev
 
-<!--
-**Brunolemmosdev/Brunolemmosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning HTML,Js,CSS ePYTHON   
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...     
-- 💬 Ask me about ...
-- 📫 How to reach me: ...   
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
---
+
+- 👨‍🎓 Atualmente aprendendo HTML,Js,CSS,Node.js e Power BI
+- 👯 Cursando Analise e desenvolvimento de Sistemmas / Faculdade -UCB
+- 🧑‍💻 A procura de oportinidade na aréa de desenvolvimento web!!!
+
+
+
+  
